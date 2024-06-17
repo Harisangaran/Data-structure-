@@ -1,6 +1,6 @@
 Write a C program to create a graph and display the ordering of vertices.  
 
-Algorithm:
+Algorithm: 
 
 CODE:-
 // C Program to implement Topological Sorting 
